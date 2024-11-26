@@ -1,0 +1,3 @@
+/Users/varunanand/College/Computer Vision/Assignment1/build/CMakeFiles/MyProject.dir
+/Users/varunanand/College/Computer Vision/Assignment1/build/CMakeFiles/edit_cache.dir
+/Users/varunanand/College/Computer Vision/Assignment1/build/CMakeFiles/rebuild_cache.dir
